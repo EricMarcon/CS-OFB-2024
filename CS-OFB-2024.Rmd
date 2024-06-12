@@ -266,7 +266,7 @@ Théorie complète et robuste pour unifier la mesure de la biodiversité d'un ta
 Mémorisation simple :
 
 - l'information est le logarithme de la rareté,
-- l'entropie est l'espérance de l'information;
+- l'entropie est l'espérance de l'information,
 - la diversité est l'exponentielle de l'entropie.
 
 Synthèse : https://github.com/EricMarcon/MesuresBioDiv2
